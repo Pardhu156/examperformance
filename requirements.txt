@@ -1,12 +1,9 @@
 pandas
 numpy
-seaborn
 scikit-learn
-matplotlib
 catboost
 xgboost
 dill
-pickle
 flask
 
--e .
+# -e .
